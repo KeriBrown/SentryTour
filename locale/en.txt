@@ -1,0 +1,106 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 3
+
+## Skin
+
+### Button
+Button_C918E5C2_D9D5_EA29_41EA_BED594B4C253.label = ASSEMBLY
+Button_C91905C2_D9D5_EA29_41CD_EFE62801EB4B.label = MACHINE SHOP
+Button_C91945C2_D9D5_EA29_41E8_299317199496.label = PAINT SHOP
+Button_C91985C2_D9D5_EA29_41E7_F369420BB12C.label = PANEL SHOP
+Button_C91985C2_D9D5_EA29_41E7_F369420BB12C.pressedLabel = PANEL SHOP
+Button_C919C5C2_D9D5_EA29_41A3_45427241E3D3.label = WELDING
+Button_C91E05C2_D9D5_EA29_41B0_99EE4D7B6DE3.label = LASER CUTTING
+Button_C91E85C1_D9D5_EA2B_41B8_C21B57FDB786.label = BACK
+Button_C960A5BE_D9D5_EA59_41D1_6A9928BE8FF1.label = Lorem Ipsum
+Button_C960C5BD_D9D5_EA5B_41B9_122E14FC35C8.label = FRONT DOORS
+Button_C960C5BD_D9D5_EA5B_41B9_122E14FC35C8.pressedLabel = FRONT DOORS
+Button_C960D5BE_D9D5_EA59_41EA_06882916E1B2.label = Garden
+Button_C96105BD_D9D5_EA5B_41BD_A65EC4F4D491.label = DRIVEWAY
+Button_C96155BD_D9D5_EA5B_41BB_3644495E62D5.label = MAIN ENTRANCE
+Button_C96425BB_D9D5_EA5F_41E7_CA082DEDF8F3.label = SHOP >
+Button_C964A5BB_D9D5_EA5F_41D7_EAC1C199DE03.label = OFFICE 
+Button_C964A5BB_D9D5_EA5F_41D7_EAC1C199DE03.pressedLabel = OFFICE
+Button_C964C5BB_D9D5_EA5F_41D5_6DC3B6D2B12B.label = MAIN LOBBY 
+Button_C96565BA_D9D5_EA59_41D5_E6396B46C13A.label = EXTERIOR >
+Button_C96635BD_D9D5_EA5B_41D7_B5070983A803.label = BACK
+
+### Label
+Label_F8A62508_E2BB_BC5C_41E5_3C31DD00D58A.text = LASER DEPARTMENT
+
+### Tooltip
+Image_F0AAA5FE_E285_9F64_41D2_0610591B9253.toolTip = Help
+
+## Media
+
+### Title
+album_CD113779_DF87_9C4E_41E7_DB12D29B85D1.label = Photo Album DSC05127
+album_CD113779_DF87_9C4E_41E7_DB12D29B85D1_0.label = DSC05127
+panorama_98D5460F_B9B1_3A1A_41CA_D59E8E33BF31.label = Driveway
+panorama_A922F30E_B9F3_3A68_41E2_B37D7BCF81AF.label = Entrance
+panorama_C2EFF5F1_C986_F1E4_41C3_CBA2D039363F.label = Front Doors
+panorama_D2A43B28_D889_5458_41D6_9C3C718D1D29.label = lobby final
+panorama_D2F1EF3B_D9DB_9657_41C2_58FF370F9762.label = Paint Shop
+panorama_D2F5A1AD_D9DA_AA70_41E5_0858FC0E37A8.label = Panel Shop
+panorama_D3C6C195_DD85_B6E4_41AB_708AEA9C20C4.label = Assembly
+panorama_D4FDAD28_D889_2C45_41DD_D4DF5585EEDA.label = lobby top final
+panorama_D9F0DAAD_CBBA_DD2F_41E0_D20130A738D8.label = Welding
+panorama_FB181B43_DA6D_9E42_41BC_A7645A56FB31.label = Machine shop
+photo_CA5DDBDF_DF83_7446_41D5_DD93DEFDB728.label = DSC05124
+photo_CF1108FE_DD69_48BA_41D8_FD993A258292.label = electrical services-5353
+video_AB2B8D06_B971_4FDA_418A_8DEA87298A7A.label = DJI_0118
+video_ACA6789A_BB76_F571_41DD_E82DBED8C346.label = Sentry
+video_AFABB5A1_BB92_DF41_41C4_9EB4544AD567.label = Product Browser
+video_C47A8E0B_DA2E_99F8_41CC_297B5150532E.label = Robotic Variety Pack
+video_CBB102B3_DFAA_D1AE_41E7_0B1B7849F2E4.label = Sentry Timeline
+video_CD855884_DF69_F078_41D6_BA94DC142F1E.label = history of sentry
+video_CE037A4F_DF7F_509D_41E6_4E7C9D91DE64.label = history of sentry
+video_F448E666_E286_9CAE_41DB_7CCD10380115.label = 150%
+
+## Popup
+
+### Body
+htmlText_A886AB5C_B9EF_4AC1_41C2_87396CC6945B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Sentry Equipment &amp; Erectors, Inc. is a North American based full-service provider of conveyor equipment and related container handling machinery. Located in Central Virginia, Sentry employs approximately 200 people that specialize in integrating packaging equipment and conveying systems into cost-effective and efficient plant designs.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Sentry was incorporated in August of 1980 as a mechanical installation service. Thanks to the drive and vision of Adam and Carole Vinoskey, Sentry Equipment &amp; Erectors, Inc. was soon born. Adam’s philosophy was, and still is, that “quality standards change, but quality does not”.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">It was this down-to-earth approach of providing a quality product, made in the USA, and literally rolling our sleeves up at the eleventh hour to help our customers get the job done that has earned Sentry its reputation in the industry.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_A891363C_BAB3_3DD3_41D6_96A97B83C427.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Over the last 40 years, Sentry has grown from a small installation group, to one of the industry leaders. Today, Sentry operates in a 250,000 square foot main facility in Forest, Virginia. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><br/></DIV></BODY></HTML></div>
+htmlText_C57CEBF5_DA2B_9E31_41E3_6B6329AF7E40.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Sentry offers conveyors for any application. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Options include:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Glass Bottles </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">PET Bottles</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Cans</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Pallets</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Cases</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Multi-Packs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Neck-Guided Air Conveyors</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Empty Can Air Conveyors</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Beverage</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Food</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Pharmaceuticals</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C653DED7_DA3A_7665_41C8_35C697E7DCB5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Upstairs houses Sentry Equipment's Engineering Department. The Engineering Department at Sentry is fully staffed to support all stages of a project. Sales Engineers work directly with their field sales counterparts and the customer to develop an idea and prepare a scope. Mechanical Engineers prepare the calculations and design the individual components necessary for the fabrication process. Our Electrical Engineering group brings the system to life. All electrical drawings, panels, and programming are done in house.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Some of our services include:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Packaging Layout Design</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">System Integration</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Vendor Coordination</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Project Management</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CCA7AB2C_DD7B_C959_4184_8E3F0CAF775F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Sentry provides a full-service Electrical Department to complement every item in the product line. All panels are built in our in-house UL approved panel shop. Motor disconnects and control sensors (if purchased) are pre-mounted using custom fit brackets. Pre-wire of all conveyor is available as an option, and is standard practice on machinery.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><br/></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:14px;">Some of our services include:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Contractor Drawing Development</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Electrical Interface Coordination</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Electrical Pre-Wire</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#01204e;font-size:15px;">  •  </SPAN><SPAN STYLE="color:#01204e;font-size:14px;">Plug and Play Networks</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CE63890B_DEAE_D304_41E5_BDD33EDE543A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:14px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_D5C4EF3F_D839_54D9_41E1_DDD269CE5EAA.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:14px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_F13667B4_E28B_BB98_41E0_E236E79F3D8A.title = ABOUT SENTRY 
+window_F57CC412_E28F_FC95_41E7_5E9E8E0AF228.title = PANEL SHOP
+window_F60DAEB2_E28A_8D9B_41E3_67EBFD767BED.title = ABOUT SENTRY 
+window_F66EA5DA_E28D_BF8B_41B7_2A61045269E8.title = Sentry Engineering 
+window_F6711583_E28D_9C79_41D4_0D52C657E725.title = Sentry Conveyors 
+window_F7824854_E28E_949E_41DE_AEAFC6B6387D.title = WELDING DEPARTMENT
+window_FA51E146_E286_B4C3_41D3_8A34893F8614.title = Tag lazer 
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_AB08A11E_B97F_57E8_41E5_B15BD14EB91D.toolTip = FRONT DOORS
+HotspotPanoramaOverlayArea_AB30D502_B993_5FFC_41E2_5F25BB4C0452.toolTip = ENTRANCE
+HotspotPanoramaOverlayArea_C13BFA4C_DA3F_9E66_41D8_93357D5A353E.toolTip = Watch Video
+HotspotPanoramaOverlayArea_C4E0DED8_DA2F_F672_41D3_56577820E974.toolTip = OFFICE
+HotspotPanoramaOverlayArea_C66DFE2B_C98D_B22C_41C9_515BEDE9426F.toolTip = DRIVEWAY
+HotspotPanoramaOverlayArea_C80A5FCD_D849_F433_41E5_DAA0257A6C40.toolTip = FRONT DOORS
+HotspotPanoramaOverlayArea_CCDE1479_DD79_7FBD_41BA_2BA5C1F08106.toolTip = PANEL SHOP
+HotspotPanoramaOverlayArea_CD00FD82_DD66_C94C_41D3_2FDFB411AAE6.toolTip = PAINT SHOP
+HotspotPanoramaOverlayArea_CD59AAEB_DD67_48D2_41EB_A7285FC0FF01.toolTip = LASER DEPARTMENT
+HotspotPanoramaOverlayArea_CD8E383C_DD7A_B7BB_41E3_CA240F2551ED.toolTip = PANEL SHOP
+HotspotPanoramaOverlayArea_CD993044_DF69_D0FA_41E2_5996836DA009.toolTip = LOBBY
+HotspotPanoramaOverlayArea_CDC04501_DD79_B94C_41CA_B4C48BD550B2.toolTip = WELDING DEPARTMENT
+HotspotPanoramaOverlayArea_CE6524D7_DF6E_F184_41E4_75ADF340E676.toolTip = SHOP
+HotspotPanoramaOverlayArea_D233D74A_DD8D_7A6E_41D8_E65D80B3DBD6.toolTip = MACHINE SHOP
+HotspotPanoramaOverlayArea_D37CB84A_DD83_966E_41D7_64E1BD487E9B.toolTip = ASSEMBLY
+HotspotPanoramaOverlayArea_F6A10D86_E28A_8C71_41C0_FB6856072F31.toolTip = PAINT SHOP
+HotspotPanoramaOverlayArea_F75192A7_E285_95AE_41B3_1B004680AA63.toolTip = FLY THROUGH SHOP
+HotspotPanoramaOverlayArea_FAFBC8C4_DA76_9ABF_41E6_C3001794BEE8.toolTip = MACHINE SHOP
+HotspotPanoramaOverlayArea_FB13FD70_DA6A_9A5B_41D7_A01A64611CD2.toolTip = PANEL SHOP
+HotspotPanoramaOverlayArea_FF9F32D7_DA76_AE58_41B4_A5B0D0EB0E45.toolTip = ASSEMBLY
